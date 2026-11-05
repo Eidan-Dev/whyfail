@@ -1,5 +1,9 @@
 # whyfail
 
+
+<img width="960" height="540" alt="whyfail-demo" src="https://github.com/user-attachments/assets/76cd50b2-ff1e-4e8b-91af-fd11f8faa94e" />
+
+
 **Your test failed. Now what?** `whyfail` runs your tests and tells you, in plain English, why each one broke and how to fix it.
 
 ```bash
